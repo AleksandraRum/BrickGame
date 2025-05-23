@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+5a628ad3b0ccc05f58496958e5c94334 CMakeFiles/snake_desktop_autogen
+5a628ad3b0ccc05f58496958e5c94334 CMakeFiles/tetris_desktop_autogen
+dbb681a127b2915e9c70cf5b0b022761 snake_desktop_autogen/timestamp
+dcd893a4835a50c6a689da2525f68d9c tetris_desktop_autogen/timestamp

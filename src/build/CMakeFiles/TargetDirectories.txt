@@ -1,0 +1,8 @@
+/Users/user/Desktop/dev29.11/BrickGame/src/build/CMakeFiles/snake_desktop.dir
+/Users/user/Desktop/dev29.11/BrickGame/src/build/CMakeFiles/tetris_desktop.dir
+/Users/user/Desktop/dev29.11/BrickGame/src/build/CMakeFiles/edit_cache.dir
+/Users/user/Desktop/dev29.11/BrickGame/src/build/CMakeFiles/rebuild_cache.dir
+/Users/user/Desktop/dev29.11/BrickGame/src/build/CMakeFiles/snake_desktop_autogen_timestamp_deps.dir
+/Users/user/Desktop/dev29.11/BrickGame/src/build/CMakeFiles/snake_desktop_autogen.dir
+/Users/user/Desktop/dev29.11/BrickGame/src/build/CMakeFiles/tetris_desktop_autogen_timestamp_deps.dir
+/Users/user/Desktop/dev29.11/BrickGame/src/build/CMakeFiles/tetris_desktop_autogen.dir
