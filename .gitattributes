@@ -71,5 +71,5 @@
 # Languages
 *.c linguist-language=C
 *.h linguist-language=C++
-Makefile linguist-vendored
+Makefile linguist-vendored linguist-language=Makefile
 *.cmake linguist-vendored
